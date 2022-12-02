@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/github/forks/Kai0071/A17?label=Fork&style=social">
     
    <p align="center"> 
-  <a href="https://github.com/Kai0071/A17/stargazers">
-    <img src="https://img.shields.io/github/stars/Kai0071/A17?style=social">
+  <a href="https://github.com/louk133/stargazers">
+    <img src="https://img.shields.io/github/stars/louk123?style=social">
 
  
 
